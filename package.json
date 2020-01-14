@@ -1,0 +1,27 @@
+{
+  "name": "pizzaria",
+  "version": "1.0.0",
+  "description": "app pizzaria v1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ic3web/pizzaria.git"
+  },
+  "keywords": [
+    "pizzaria",
+    "app",
+    "web",
+    "delivery",
+    "pedido",
+    "acesso"
+  ],
+  "author": "Filipi Firmino - CEO - ic3web",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ic3web/pizzaria/issues"
+  },
+  "homepage": "https://github.com/ic3web/pizzaria#readme"
+}
